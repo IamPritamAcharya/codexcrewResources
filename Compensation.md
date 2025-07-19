@@ -1,6 +1,6 @@
 # Compensation
 
-![](https://img.freepik.com/free-vector/young-investors-working-profit-dividend-revenue_74855-6143.jpg)
+![](https://www.shutterstock.com/image-vector/employee-benefits-concept-man-near-260nw-2475145545.jpg)
 
 | No | Company Name | Role | CTC (In Lakh) | Internship (In Thousand) | Details |
 | --- | --- | --- | --- | --- | --- |
