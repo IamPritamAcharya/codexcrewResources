@@ -1,6 +1,6 @@
 # DSA
 
-![](https://thedigitaladda.com/wp-content/uploads/Data-Structure-Algorithms.png)
+![](https://img.freepik.com/free-vector/hand-drawn-rebranding-illustration_23-2149580734.jpg?semt=ais_hybrid&w=740)
 
 - Books :
     - Java
