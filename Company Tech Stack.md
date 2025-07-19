@@ -1,6 +1,6 @@
 # Company Tech Stack
 
-![](https://static.vecteezy.com/ti/vetor-gratis/p1/28269355-moderno-plano-linha-conceito-do-criatividade-vetor.jpg)
+![](https://www.shutterstock.com/image-vector/web-software-development-concept-bannercomputer-260nw-2025576065.jpg)
 
 **Company Tech Stacks :** What tech stacks different companies use → 
 
