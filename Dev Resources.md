@@ -1,6 +1,6 @@
 # Dev Resources
 
-![image.png](https://img.notionusercontent.com/s3/prod-files-secure%2Ff7302047-e035-43e2-9ee9-9057a457e1b0%2F13e8e99b-2829-4c6f-a700-8a3d273f962e%2F14d20f03-e6fd-4d4e-bad9-15cfff5d547a.png/size/w=2000?exp=1753031877&sig=XNn0lqY10zjWZyVwf9H1-BV1lKctDDBkKooNcQ2zXUE&id=1ca52085-208d-8027-9811-de6118d2b766&table=block&userId=11fd872b-594c-81c2-8e9e-0002e6ed8613)
+![bg](https://img.freepik.com/premium-vector/programming-home_118813-4357.jpg)
 
 ## Cyber Security
 
