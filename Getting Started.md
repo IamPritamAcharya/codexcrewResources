@@ -1,6 +1,6 @@
 # Getting Started
 
-![image.png](attachment:b9f6e1e4-f679-4213-ae53-c077ab00025c:image.png)
+![image.png](https://img.freepik.com/premium-vector/programming-concept-illustration_114360-1351.jpg)
 
 | Languages | Videos / Tutorials |
 | --- | --- |
