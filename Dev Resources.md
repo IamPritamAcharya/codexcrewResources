@@ -1,6 +1,6 @@
 # Dev Resources
 
-![bg](https://img.freepik.com/premium-vector/programming-home_118813-4357.jpg)
+![bg](https://static.vecteezy.com/system/resources/thumbnails/002/382/812/small/employee-online-meeting-at-home-during-pandemic-free-vector.jpg)
 
 ## Cyber Security
 
