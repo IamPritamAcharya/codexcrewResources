@@ -7,6 +7,8 @@ date: "2024-08-05"
 
 The Central Library is pleased to announce **extended operating hours** to better serve our students during the examination period.
 
+https://leetcode.com/problems/two-sum/description/
+
 ## New Timings (Effective August 15, 2024):
 - **Monday to Friday**: 6:00 AM - 11:00 PM
 - **Saturday**: 7:00 AM - 10:00 PM  
